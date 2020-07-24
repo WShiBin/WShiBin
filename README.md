@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+Other    21 hrs 21 mins  ██████████████████████░░░   90.57 % 
+Python   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Rust     33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+HTML     12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+C        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+```
 <!--END_SECTION:waka-->
