@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C       7 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.52 % 
-Bash    3 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Rust    2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-CMake   2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Other   1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Bash    7 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.83 % 
+C       4 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Rust    2 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+CMake   2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Other   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->
