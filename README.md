@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C            15 hrs 38 mins  █████████████▒░░░░░░░░░░░   53.12 % 
-CMake        4 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Markdown     2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-JavaScript   1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Other        1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+C            17 hrs 32 mins  ████████████▓░░░░░░░░░░░░   51.03 % 
+CMake        6 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Markdown     2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JavaScript   1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+JSON         1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 <!--END_SECTION:waka-->
