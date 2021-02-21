@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust          1 hr 1 min      ██████████████▓░░░░░░░░░░   58.04 % 
-C             40 mins         █████████▓░░░░░░░░░░░░░░░   38.28 % 
-Markdown      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+CMake      2 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   35.57 % 
+C          1 hr 42 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.40 % 
+Rust       1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Markdown   46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Other      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 <!--END_SECTION:waka-->
