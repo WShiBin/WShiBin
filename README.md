@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-CMake       4 hrs 44 mins   █████████████▒░░░░░░░░░░░   53.08 % 
-Markdown    1 hr 54 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.46 % 
-Rust        1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Text        49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-PkgConfig   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+CMake      4 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.36 % 
+Markdown   1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Text       1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Rust       1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+QML        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 <!--END_SECTION:waka-->
