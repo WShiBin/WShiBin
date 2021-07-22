@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML              41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.17 % 
-Markdown          40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.98 % 
-Stylus            22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Other             13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Protocol Buffer   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown   1 hr 34 mins    █████████▒░░░░░░░░░░░░░░░   37.98 % 
+YAML       41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+CMake      26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Stylus     22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Other      18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 <!--END_SECTION:waka-->
