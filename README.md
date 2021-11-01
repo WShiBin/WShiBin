@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C             11 hrs 1 min    ██████████░░░░░░░░░░░░░░░   39.63 % 
-JSON          8 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.26 % 
-Rust          3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-TypeScript    1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Objective-C   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C             11 hrs 2 mins   ██████████░░░░░░░░░░░░░░░   40.47 % 
+JSON          8 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.83 % 
+Rust          2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+TypeScript    1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Objective-C   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 <!--END_SECTION:waka-->
