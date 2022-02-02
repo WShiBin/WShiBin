@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust    44 mins         █████████████████▒░░░░░░░   69.00 % 
-C       12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-YAML    4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Rust    17 mins         ██████████████████░░░░░░░   71.69 % 
+C       4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 ```
 <!--END_SECTION:waka-->
