@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 mins          ██████████████████▒░░░░░░   72.82 % 
+C            1 hr 29 mins    ██████████████▓░░░░░░░░░░   58.53 % 
+CMake        33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.23 % 
+Other        19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+TypeScript   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Rust         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
