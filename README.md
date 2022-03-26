@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C                  15 hrs 7 mins   ██████████████████░░░░░░░   71.73 %
-CMake              1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Other              1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+C                  16 hrs 50 mins  █████████████████░░░░░░░░   67.90 %
+CMake              1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Other              1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
