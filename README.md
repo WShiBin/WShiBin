@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust               7 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-JavaScript         3 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Other              3 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+JavaScript   6 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   36.04 %
+Other        4 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.50 %
 ```
 
 <!--END_SECTION:waka-->
