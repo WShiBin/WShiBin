@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     3 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-C            2 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.49 %
-YAML         1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-Other        1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Markdown     3 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
+C            1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Other        1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
 ```
 
 <!--END_SECTION:waka-->
