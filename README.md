@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C                  2 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-Markdown           1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-YAML               1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Other              59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+C                  2 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   36.98 %
+CSS                49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Other              44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
 ```
 
 <!--END_SECTION:waka-->
