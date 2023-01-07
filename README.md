@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C             10 hrs 13 mins  ██████████████░░░░░░░░░░░   55.80 %
-Objective-C   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-CMake         1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-Markdown      1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Other         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+C                11 hrs 2 mins   ██████████████▓░░░░░░░░░░   58.30 %
+Objective-C      2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Markdown         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+CMake            1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Other            1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
