@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML     23 mins         ██████████████░░░░░░░░░░░   56.02 %
-TOML     13 mins         ████████░░░░░░░░░░░░░░░░░   32.16 %
-JSON     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Python   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+TOML     13 mins         ██████████▓░░░░░░░░░░░░░░   42.65 %
+Rust     6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+Other    5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
 ```
 
 <!--END_SECTION:waka-->
