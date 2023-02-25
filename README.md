@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C             16 hrs 43 mins  ████████████████▓░░░░░░░░   66.61 %
-Rust          2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Markdown      59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Other         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+C             21 hrs 57 mins  ██████████████████▒░░░░░░   73.30 %
+Rust          2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+Markdown      1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Other         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
