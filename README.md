@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown      7 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.30 %
-C             5 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   31.98 %
-Other         2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Markdown      6 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   43.08 %
+C             4 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+Other         2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
 ```
 
 <!--END_SECTION:waka-->
