@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSS        5 hrs 18 mins   ███████████████████▓░░░░░   79.25 %
-C          44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Markdown   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Bash       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+CSS              7 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.03 %
+C                5 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.06 %
+Markdown         1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Other            1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
 ```
 
 <!--END_SECTION:waka-->
