@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML         29 mins         ████████████▒░░░░░░░░░░░░   48.81 %
-Markdown     26 mins         ███████████░░░░░░░░░░░░░░   43.95 %
-JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Markdown     33 mins         ██████████░░░░░░░░░░░░░░░   40.50 %
+YAML         29 mins         █████████░░░░░░░░░░░░░░░░   35.58 %
+JSON         14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
+CSS          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
