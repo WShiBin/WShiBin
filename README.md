@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 1 min      ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Makefile     49 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+Other        1 hr 1 min      ███████▓░░░░░░░░░░░░░░░░░   31.06 %
+Makefile     49 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
 Bash         22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
 YAML         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
 Rust         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
