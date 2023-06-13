@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        32 mins         █████████████████▓░░░░░░░   71.22 %
-YAML         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-SSH Config   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Other   10 mins         █████████████████████▓░░░   86.89 %
+JSON    1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+TOML    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
