@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 26 mins   ███████████████████████▒░   93.40 %
-Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Rust         2 hrs 33 mins   ██████████████████████░░░   88.07 %
+Markdown     15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+C            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
