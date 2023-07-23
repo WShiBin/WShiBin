@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   31 mins         █████████▒░░░░░░░░░░░░░░░   36.96 %
-Rust       31 mins         █████████░░░░░░░░░░░░░░░░   36.54 %
-Other      14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
-TOML       8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Markdown   23 mins         ████████▒░░░░░░░░░░░░░░░░   33.82 %
+JSON       22 mins         ████████░░░░░░░░░░░░░░░░░   32.21 %
+TOML       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Assembly   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+YAML       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->
