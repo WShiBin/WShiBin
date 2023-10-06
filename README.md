@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         54 mins         ██████████▒░░░░░░░░░░░░░░   41.30 %
-TypeScript   46 mins         ████████▓░░░░░░░░░░░░░░░░   35.25 %
-TOML         20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-C            6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Rust         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
