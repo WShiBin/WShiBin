@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 44 mins    █████████████████░░░░░░░░   68.40 %
+Other        1 hr 44 mins    █████████████████░░░░░░░░   68.38 %
 C++          23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Text         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Text         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
 Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
