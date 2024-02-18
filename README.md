@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   0 secs          █████████████████░░░░░░░░   67.45 %
-JSON   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.59 %
-YAML   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Rust   0 secs          ████████████████████▒░░░░   81.16 %
+YAML   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+JSON   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 ```
 
 <!--END_SECTION:waka-->
