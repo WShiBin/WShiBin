@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.70 %
-fish         1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Rust         1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-Makefile     1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Other        1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Markdown     4 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.26 %
+Other        1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+fish         1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Makefile     1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Rust         1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 ```
 
 <!--END_SECTION:waka-->
