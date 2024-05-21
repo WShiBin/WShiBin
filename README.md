@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    3 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.78 %
-Markdown      2 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-Other         1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-Text          1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Makefile      21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Other         1 hr 57 mins    ████████░░░░░░░░░░░░░░░░░   31.89 %
+TypeScript    1 hr 46 mins    ███████▒░░░░░░░░░░░░░░░░░   28.89 %
+Text          1 hr 22 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
+Makefile      21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+XML           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
