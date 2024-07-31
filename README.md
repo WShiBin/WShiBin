@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      16 mins         █████████████████████████   99.46 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Other        24 mins         ████████████████████▒░░░░   81.52 %
+TypeScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Text         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
