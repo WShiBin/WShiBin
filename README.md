@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        4 hrs 16 mins   ██████████████████████▒░░   89.56 %
-Makefile     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-fish         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-CMake        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other       4 hrs 18 mins   █████████████████████▓░░░   86.68 %
+Batchfile   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Makefile    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+JSON        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+fish        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
