@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other       4 hrs 18 mins   █████████████████████▓░░░   86.68 %
-Batchfile   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Makefile    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-JSON        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-fish        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other       3 hrs 3 mins    ███████████████████░░░░░░   75.88 %
+Markdown    20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Rust        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Batchfile   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Makefile    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
