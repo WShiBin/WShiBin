@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 18 mins   ████████████░░░░░░░░░░░░░   47.37 %
-Other        2 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.43 %
-XML          32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown     2 hrs 18 mins   ██████████████▒░░░░░░░░░░   57.77 %
+Other        1 hr 8 mins     ███████░░░░░░░░░░░░░░░░░░   28.57 %
+XML          32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
