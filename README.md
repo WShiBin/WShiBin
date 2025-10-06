@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   22 mins         ██████████████████████░░░   88.13 %
-Bash         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Git Config   13 mins         ████████████████████▒░░░░   81.68 %
+TypeScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
