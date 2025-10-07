@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   13 mins         ████████████████████▒░░░░   81.68 %
-TypeScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TypeScript   2 mins          ████████████████████▒░░░░   80.90 %
+JSON         0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
