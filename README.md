@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-Other        2 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-Bash         1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-TypeScript   55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-SSH Config   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Markdown     2 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.14 %
+Other        2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+JavaScript   1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Bash         1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+C            58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
 
 <!--END_SECTION:waka-->
