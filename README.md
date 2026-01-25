@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         4 hrs 2 mins    ████████████░░░░░░░░░░░░░   47.44 %
-Rust          2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-TypeScript    1 hr 34 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
-Objective-C   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-YAML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other         4 hrs 19 mins   ████████████▒░░░░░░░░░░░░   49.05 %
+Rust          2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   28.99 %
+TypeScript    1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
+Objective-C   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+YAML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
