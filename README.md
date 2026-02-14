@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         8 mins          ███████████████████░░░░░░   75.62 %
-Markdown     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-C++          1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
